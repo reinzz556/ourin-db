@@ -1,22 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:42:59.630Z",
+  "updatedAt": "2026-10-31T12:43:16.689Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
   "accounts": [
-    {
-      "id": "V2TCJ7401S2VH4TY1GR7",
-      "username": "creator",
-      "displayName": "Creator",
-      "role": "creator",
-      "passwordHash": "scrypt$16384$8$1$1c6c664d06e354fdd384c1acfb927bdf$6082c3c2f4b9434a4dc621ce7f190ac466027b08404177bbf9a23aa28fe779515c1ed34fdcdc86f89e7dcbf78946afc831b9b341ddc7bffb8fbe6635136dfcc2",
-      "status": "active",
-      "createdAt": "2026-10-31T11:57:33.419Z",
-      "updatedAt": "2026-10-31T12:11:08.550Z",
-      "createdById": null,
-      "createdBy": null,
-      "children": [],
-      "slots": []
-    },
     {
       "id": "MDN21VFFTN4XZJL1MCHQ",
       "username": "devone",
