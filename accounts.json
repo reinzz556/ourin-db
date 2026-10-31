@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:43:37.604Z",
+  "updatedAt": "2026-10-31T12:45:02.607Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
   "accounts": [
     {
@@ -14,13 +14,43 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-10-31T12:42:44.459Z",
-      "updatedAt": "2026-10-31T12:42:44.459Z",
+      "updatedAt": "2026-10-31T12:45:02.607Z",
       "createdById": "ROOTCREATOR00000001",
       "createdBy": {
         "id": "ROOTCREATOR00000001",
         "username": "creator",
         "displayName": "Creator",
         "role": "creator"
+      },
+      "children": [
+        {
+          "id": "HJH4CZP0UKNJLC8UKQ9S",
+          "username": "staffone",
+          "displayName": "staffone",
+          "role": "staff",
+          "createdAt": "2026-10-31T12:45:02.607Z"
+        }
+      ],
+      "slots": []
+    },
+    {
+      "id": "HJH4CZP0UKNJLC8UKQ9S",
+      "username": "staffone",
+      "displayName": "staffone",
+      "role": "staff",
+      "passwordHash": "scrypt$16384$8$1$5e91ce79614c086ec482584c867007c2$2dca983c907b016d241b6bb07a0deeccc7f2e9a376fab9919a50cb7f97857f948ee7a869b92ed14a4d6dcc270c4bd39d65cfdcf75052ec187df0e14891ff3aba",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-10-31T12:45:02.607Z",
+      "updatedAt": "2026-10-31T12:45:02.607Z",
+      "createdById": "MDN21VFFTN4XZJL1MCHQ",
+      "createdBy": {
+        "id": "MDN21VFFTN4XZJL1MCHQ",
+        "username": "devone",
+        "displayName": "Dev One",
+        "role": "developer"
       },
       "children": [],
       "slots": []
