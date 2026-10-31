@@ -1,85 +1,12 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:45:02.607Z",
+  "updatedAt": "2026-10-31T12:45:12.519Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
-  "accounts": [
-    {
-      "id": "MDN21VFFTN4XZJL1MCHQ",
-      "username": "devone",
-      "displayName": "Dev One",
-      "role": "developer",
-      "passwordHash": "scrypt$16384$8$1$86f55537bc9ead0afcf1545af83461c4$cf5ee2a092541eb63553130ff2e00e659560304a6607d7515b6e0954e2898ab5f6028ee1c33a6680dfa2371a54e0b867cf92a1adee008815b489a58da8b4ac40",
-      "status": "active",
-      "avatarUrl": "",
-      "bannerUrl": "",
-      "bannerType": "",
-      "createdAt": "2026-10-31T12:42:44.459Z",
-      "updatedAt": "2026-10-31T12:45:02.607Z",
-      "createdById": "ROOTCREATOR00000001",
-      "createdBy": {
-        "id": "ROOTCREATOR00000001",
-        "username": "creator",
-        "displayName": "Creator",
-        "role": "creator"
-      },
-      "children": [
-        {
-          "id": "HJH4CZP0UKNJLC8UKQ9S",
-          "username": "staffone",
-          "displayName": "staffone",
-          "role": "staff",
-          "createdAt": "2026-10-31T12:45:02.607Z"
-        }
-      ],
-      "slots": []
-    },
-    {
-      "id": "HJH4CZP0UKNJLC8UKQ9S",
-      "username": "staffone",
-      "displayName": "staffone",
-      "role": "staff",
-      "passwordHash": "scrypt$16384$8$1$5e91ce79614c086ec482584c867007c2$2dca983c907b016d241b6bb07a0deeccc7f2e9a376fab9919a50cb7f97857f948ee7a869b92ed14a4d6dcc270c4bd39d65cfdcf75052ec187df0e14891ff3aba",
-      "status": "active",
-      "avatarUrl": "",
-      "bannerUrl": "",
-      "bannerType": "",
-      "createdAt": "2026-10-31T12:45:02.607Z",
-      "updatedAt": "2026-10-31T12:45:02.607Z",
-      "createdById": "MDN21VFFTN4XZJL1MCHQ",
-      "createdBy": {
-        "id": "MDN21VFFTN4XZJL1MCHQ",
-        "username": "devone",
-        "displayName": "Dev One",
-        "role": "developer"
-      },
-      "children": [],
-      "slots": []
-    }
-  ],
+  "accounts": [],
   "root": {
-    "avatarUrl": "/uploads/avatars/ROOTCREATOR00000001-9nblyv.webp",
-    "bannerUrl": "/uploads/banners/ROOTCREATOR00000001-cbg63a.webp",
-    "bannerType": "image",
-    "slots": [
-      {
-        "id": "S1Y7KEGH6A2GY1VBZ03D9",
-        "number": "081200000001",
-        "label": "utama",
-        "ownerId": "ROOTCREATOR00000001",
-        "owner": {
-          "id": "ROOTCREATOR00000001",
-          "username": "creator",
-          "displayName": "Creator",
-          "role": "creator"
-        },
-        "addedById": "ROOTCREATOR00000001",
-        "addedBy": {
-          "id": "ROOTCREATOR00000001",
-          "username": "creator",
-          "role": "creator"
-        },
-        "createdAt": "2026-10-31T12:42:59.630Z"
-      }
-    ]
+    "avatarUrl": "",
+    "bannerUrl": "",
+    "bannerType": "",
+    "slots": []
   }
 }
