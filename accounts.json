@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:43:36.686Z",
+  "updatedAt": "2026-10-31T12:43:37.604Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
   "accounts": [
     {
@@ -28,8 +28,8 @@
   ],
   "root": {
     "avatarUrl": "/uploads/avatars/ROOTCREATOR00000001-9nblyv.webp",
-    "bannerUrl": "",
-    "bannerType": "",
+    "bannerUrl": "/uploads/banners/ROOTCREATOR00000001-cbg63a.webp",
+    "bannerType": "image",
     "slots": [
       {
         "id": "S1Y7KEGH6A2GY1VBZ03D9",
