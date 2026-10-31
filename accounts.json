@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:43:16.689Z",
+  "updatedAt": "2026-10-31T12:43:36.686Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
   "accounts": [
     {
@@ -27,7 +27,7 @@
     }
   ],
   "root": {
-    "avatarUrl": "",
+    "avatarUrl": "/uploads/avatars/ROOTCREATOR00000001-9nblyv.webp",
     "bannerUrl": "",
     "bannerType": "",
     "slots": [
