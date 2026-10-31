@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:40:23.413Z",
+  "updatedAt": "2026-10-31T12:42:44.459Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
   "accounts": [
     {
@@ -14,6 +14,28 @@
       "updatedAt": "2026-10-31T12:11:08.550Z",
       "createdById": null,
       "createdBy": null,
+      "children": [],
+      "slots": []
+    },
+    {
+      "id": "MDN21VFFTN4XZJL1MCHQ",
+      "username": "devone",
+      "displayName": "Dev One",
+      "role": "developer",
+      "passwordHash": "scrypt$16384$8$1$86f55537bc9ead0afcf1545af83461c4$cf5ee2a092541eb63553130ff2e00e659560304a6607d7515b6e0954e2898ab5f6028ee1c33a6680dfa2371a54e0b867cf92a1adee008815b489a58da8b4ac40",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-10-31T12:42:44.459Z",
+      "updatedAt": "2026-10-31T12:42:44.459Z",
+      "createdById": "ROOTCREATOR00000001",
+      "createdBy": {
+        "id": "ROOTCREATOR00000001",
+        "username": "creator",
+        "displayName": "Creator",
+        "role": "creator"
+      },
       "children": [],
       "slots": []
     }
