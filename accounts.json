@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T12:42:44.459Z",
+  "updatedAt": "2026-10-31T12:42:59.630Z",
   "seededAt": "2026-10-31T11:57:33.490Z",
   "accounts": [
     {
@@ -44,6 +44,26 @@
     "avatarUrl": "",
     "bannerUrl": "",
     "bannerType": "",
-    "slots": []
+    "slots": [
+      {
+        "id": "S1Y7KEGH6A2GY1VBZ03D9",
+        "number": "081200000001",
+        "label": "utama",
+        "ownerId": "ROOTCREATOR00000001",
+        "owner": {
+          "id": "ROOTCREATOR00000001",
+          "username": "creator",
+          "displayName": "Creator",
+          "role": "creator"
+        },
+        "addedById": "ROOTCREATOR00000001",
+        "addedBy": {
+          "id": "ROOTCREATOR00000001",
+          "username": "creator",
+          "role": "creator"
+        },
+        "createdAt": "2026-10-31T12:42:59.630Z"
+      }
+    ]
   }
 }
